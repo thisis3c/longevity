@@ -101,7 +101,7 @@ body .gdlr-core-product-grid .gdlr-core-product-title{ font-size: 18px; }
 body.financity-boxed .financity-body-wrapper{ margin-top: 0px; margin-bottom: 0px; } 
 .financity-body-wrapper.financity-with-frame, body.financity-full .financity-fixed-footer{ margin: 0px; } 
 .financity-body-background{ opacity: 1; } 
-.financity-background-pattern .financity-body-outer-wrapper{ background-image: url(http://www.thisis3c.com/longevity/wp-content/plugins/goodlayers-core/include/images/pattern/pattern-1.png); } 
+.financity-background-pattern .financity-body-outer-wrapper{ background-image: url(http://125.63.74.98:6324/wp-content/plugins/goodlayers-core/include/images/pattern/pattern-1.png); } 
 .financity-item-pdlr, .gdlr-core-item-pdlr{ padding-left: 20px; padding-right: 20px; }.financity-item-rvpdlr, .gdlr-core-item-rvpdlr{ margin-left: -20px; margin-right: -20px; }.gdlr-core-metro-rvpdlr{ margin-top: -20px; margin-right: -20px; margin-bottom: -20px; margin-left: -20px; }.financity-item-mglr, .gdlr-core-item-mglr, .financity-navigation .sf-menu > .financity-mega-menu .sf-mega{ margin-left: 20px; margin-right: 20px; }.financity-body .gdlr-core-personnel-item .gdlr-core-flexslider.gdlr-core-with-outer-frame-element .flex-viewport, .financity-body .gdlr-core-hover-box-item .gdlr-core-flexslider.gdlr-core-with-outer-frame-element .flex-viewport,.financity-body .gdlr-core-blog-item .gdlr-core-flexslider.gdlr-core-with-outer-frame-element .flex-viewport{ padding-top: 20px; margin-top: -20px; padding-right: 20px; margin-right: -20px; padding-left: 20px; margin-left: -20px; padding-bottom: 20px; margin-bottom: -20px; } 
 .financity-container, .gdlr-core-container, body.financity-boxed .financity-body-wrapper, body.financity-boxed .financity-fixed-footer .financity-footer-wrapper, body.financity-boxed .financity-fixed-footer .financity-copyright-wrapper{ max-width: 1320px; } 
 .financity-body-front .gdlr-core-container, .financity-body-front .financity-container{ padding-left: 15px; padding-right: 15px; }.financity-body-front .financity-container .financity-container, .financity-body-front .financity-container .gdlr-core-container, .financity-body-front .gdlr-core-container .gdlr-core-container{ padding-left: 0px; padding-right: 0px; } 
@@ -162,8 +162,8 @@ body.single-post .financity-sidebar-style-none, body.blog .financity-sidebar-sty
 .gdlr-core-portfolio-thumbnail .gdlr-core-portfolio-icon{ font-size: 22px; } 
 .financity-footer-wrapper{ padding-top: 72px; } 
 .financity-footer-wrapper{ padding-bottom: 67px; } 
-.financity-copyright-container{ padding-top: 25px; } 
-.financity-copyright-container{ padding-bottom: 25px; } 
+.financity-copyright-container{ padding-top: 0px; } 
+.financity-copyright-container{ padding-bottom: 0px; } 
 .financity-copyright-container{ letter-spacing: 0px; } 
 .financity-copyright-container{ text-transform: uppercase; } 
 .financity-body h1, .financity-body h2, .financity-body h3, .financity-body h4, .financity-body h5, .financity-body h6, .financity-body .financity-title-font,.financity-body .gdlr-core-title-font{ font-family: ProximaNovaRegular; }.financity-body .gdlr-core-blockquote-item .gdlr-core-blockquote-item-content{ font-family: ProximaNovaRegular; }.financity-body .gdlr-core-counter-item .gdlr-core-counter-item-number, .financity-body .gdlr-core-counter-item .gdlr-core-counter-item-bottom-text{ font-family: ProximaNovaRegular; }.woocommerce-breadcrumb, .woocommerce span.onsale, .single-product.woocommerce div.product p.price .woocommerce-Price-amount, .single-product.woocommerce #review_form #respond label{ font-family: ProximaNovaRegular; } 
@@ -171,7 +171,7 @@ body.single-post .financity-sidebar-style-none, body.blog .financity-sidebar-sty
 .financity-body, .financity-body .gdlr-core-content-font, .financity-body input, .financity-body textarea, .financity-body button, .financity-body select, .financity-body .financity-content-font, .gdlr-core-audio .mejs-container *{ font-family: "Lora", serif; } 
 .financity-body .gdlr-core-info-font, .financity-body .financity-info-font{ font-family: "Asap", sans-serif; } 
 .financity-body .gdlr-core-blog-info-font, .financity-body .financity-blog-info-font{ font-family: "Montserrat", sans-serif; } 
-.financity-body .gdlr-core-quote-font, blockquote{ font-family: "Montserrat", sans-serif; } 
+.financity-body .gdlr-core-quote-font, blockquote{ font-family: "Lora", serif; } 
 .financity-body .gdlr-core-testimonial-content{ font-family: "Montserrat", sans-serif; } 
 .financity-body h1{ font-size: 52px; } 
 .financity-body h2, #poststuff .gdlr-core-page-builder-body h2{ font-size: 48px; } 
@@ -570,17 +570,17 @@ span.woocommerce-Price-amount.amount{ color: #3740b0; }
 .gdlr-core-page-builder-body [data-skin="Hp3 Cases"] .gdlr-core-skin-e-content{ color: #2d5fde }.gdlr-core-page-builder-body [data-skin="Hp3 Cases"] .gdlr-core-flexslider-nav.gdlr-core-round-style li a i, .gdlr-core-page-builder-body [data-skin="Hp3 Cases"] .gdlr-core-flexslider-nav.gdlr-core-rectangle-style li a i{ color: #2d5fde; }.gdlr-core-page-builder-body [data-skin="Hp3 Cases"] input:not([type="button"]):not([type="submit"]):not([type="reset"]), .gdlr-core-page-builder-body [data-skin="Hp3 Cases"] textarea{ color: #2d5fde; }.gdlr-core-page-builder-body [data-skin="Hp3 Cases"] ::-webkit-input-placeholder{ color: #2d5fde; }.gdlr-core-page-builder-body [data-skin="Hp3 Cases"] ::-moz-placeholder{ color: #2d5fde; }.gdlr-core-page-builder-body [data-skin="Hp3 Cases"] :-ms-input-placeholder{ color: #2d5fde; }.gdlr-core-page-builder-body [data-skin="Hp3 Cases"] :-moz-placeholder{ color: #2d5fde; }
 @font-face {
 font-family: "ProximaNovaLight";
-src: url("http://www.thisis3c.com/longevity/wp-content/uploads/2018/09/ProximaNova-Light.eot");
-src: url("http://www.thisis3c.com/longevity/wp-content/uploads/2018/09/ProximaNova-Light.eot?#iefix") format("embedded-opentype"), 
-url("http://www.thisis3c.com/longevity/wp-content/uploads/2018/09/ProximaNova-Light.ttf") format("truetype");
+src: url("http://125.63.74.98:6324/wp-content/uploads/2018/09/ProximaNova-Light.eot");
+src: url("http://125.63.74.98:6324/wp-content/uploads/2018/09/ProximaNova-Light.eot?#iefix") format("embedded-opentype"), 
+url("http://125.63.74.98:6324/wp-content/uploads/2018/09/ProximaNova-Light.ttf") format("truetype");
 font-weight: normal;
 font-style: normal;
 }
 @font-face {
 font-family: "ProximaNovaRegular";
-src: url("http://www.thisis3c.com/longevity/wp-content/uploads/2018/09/ProximaNova-Regular.eot");
-src: url("http://www.thisis3c.com/longevity/wp-content/uploads/2018/09/ProximaNova-Regular.eot?#iefix") format("embedded-opentype"), 
-url("http://www.thisis3c.com/longevity/wp-content/uploads/2018/09/ProximaNova-Regular.ttf") format("truetype");
+src: url("http://125.63.74.98:6324/wp-content/uploads/2018/09/ProximaNova-Regular.eot");
+src: url("http://125.63.74.98:6324/wp-content/uploads/2018/09/ProximaNova-Regular.eot?#iefix") format("embedded-opentype"), 
+url("http://125.63.74.98:6324/wp-content/uploads/2018/09/ProximaNova-Regular.ttf") format("truetype");
 font-weight: normal;
 font-style: normal;
 }

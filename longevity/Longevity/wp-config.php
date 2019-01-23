@@ -17,7 +17,7 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
-define( 'WPCACHEHOME', '/home/ftp20173c/thisis3c.com/longevity/wp-content/plugins/wp-super-cache/' );
+define( 'WPCACHEHOME', 'C:\wamp64\www\Longevity\wp-content\plugins\wp-super-cache/' );
 define( 'DB_NAME', 'wp_longevity' );
 
 /** MySQL database username */

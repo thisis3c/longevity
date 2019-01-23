@@ -1,0 +1,1 @@
+[Jan 23, 2019 12:53:23 0-error] <span class="pb_label pb_label">Important</span> <b>Set an ImportBuddy password on the <a href="http://125.63.74.98:6324/wp-admin/admin.php?page=pb_backupbuddy_settings">Settings</a> page before attempting to Migrate to a new server.</b> Error Code: 
